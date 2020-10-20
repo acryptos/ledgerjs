@@ -32,7 +32,7 @@
     "@ledgerhq/hw-app-eth": "^5.27.2",
     "@ledgerhq/hw-transport": "^5.26.0",
     "@ledgerhq/hw-transport-u2f": "^5.26.0",
-    "ethereumjs-tx": "^2.1.2",
+    "ethereumjs-tx": "^1.0.0",
     "strip-hex-prefix": "^1.0.0",
     "web3-provider-engine": "^15.0.12"
   },
